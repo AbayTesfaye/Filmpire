@@ -1,10 +1,7 @@
 # Getting Started with Create React App
 
-![Alt Text](C:\Users\Hp\Desktop\filmpire\public\film-2.PNG)
-![Alt Text](C:\Users\Hp\Desktop\filmpire\public\film-1.PNG)
-
-
-
+![Film 2](public/film-2.PNG)
+![Film 1](public/film-1.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -74,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Filmpire" 
+"# Filmpire"
