@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-![Alt Text](C:\Users\Hp\Desktop\filmpire\public\film-2.PNG)
-![Alt Text](C:\Users\Hp\Desktop\filmpire\public\film-1.PNG)
+![Alt Text](public\film-1.PNG)
+![Alt Text](public\film-2.PNG)
 
 
 
