@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-![Film 2](public/film-2.PNG)
-![Film 1](public/film-1.PNG)
+![Alt Text](public\film-1.PNG)
+![Alt Text](public\film-2.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
